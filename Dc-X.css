@@ -21,6 +21,7 @@
 	--bgImage: url(https://img5.goodfon.com/original/2560x1440/9/24/astronaut-propast-noch-nebo-planeta-fantastika-skafandr.jpg);
 	--HomeButtonImg: url(https://arudarin.github.io/themes/neutron/import/homeBtn.png);
 	--brightness: 0.4;
+	--customFont: 'Montserrat';
 	--PrimaryColor01: rgb(32, 197, 119);
 	--PrimaryColorRGBA: rgba(32, 197, 119, 0.15);
 	--PrimaryColor02: #07a8c5;
@@ -2036,10 +2037,6 @@ svg[class=premiumHeaderIcon-bTc_nQ] path {
 	border: none!important;
 	padding: 5px!important;
 	margin: 0!important
-}
-
-::-webkit-input-placeholder,body:not([class*=hljs]):not(code):not([class*=ace_]) {
-	font-family: var(--customFont)!important
 }
 
 .ace_editor {
